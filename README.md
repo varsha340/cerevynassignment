@@ -1,9 +1,18 @@
 # cerevynassignment
 Problem Understanding
+
+
+
+
+
 Predicting future values from real-world data is an important task in many domains such as energy management, sales forecasting, agriculture, and healthcare. In this project, the objective is to build a machine learning model that predicts future energy consumption using historical household energy usage data.
 Real-world datasets are often noisy, incomplete, and contain non-linear relationships between variables. Traditional rule-based approaches are not effective in such scenarios. Therefore, machine learning techniques are used to learn patterns from historical data and make accurate predictions.
 The goal of this project is not only to achieve good prediction accuracy but also to demonstrate proper data handling, model reasoning, evaluation, and explainability, which are essential skills for an AI/ML engineer.
 Model Pipeline Description
+
+
+
+
 The machine learning pipeline follows a structured and systematic approach:
 Data Collection
 A publicly available household energy consumption dataset was used. The dataset contains electrical measurements such as voltage, current, and sub-meter readings recorded over time.
